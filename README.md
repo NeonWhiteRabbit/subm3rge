@@ -6,7 +6,7 @@
 <img src="https://github.com/n3onhacks/subm3rge/blob/main/subm3rge.jpg" alt="subm3rge">
 
 **!FOLLOW INSTALLATION INSTRUCTIONS BELOW!**<p>
-subm3rge - merge all file contents that share a folder into a single file. Great use cases with Speed Racer and httpDOUCHE. Written by n3on (<a href="https://www.twitter.com/@n3onhacks">@n3onhacks</a>).
+subm3rge - merge all file contents from files that share a folder into a single file. Great use cases with Speed Racer and httpDOUCHE. Written by n3on (<a href="https://www.twitter.com/@n3onhacks">@n3onhacks</a>).
 
 <h1>Videos</h1>
 
