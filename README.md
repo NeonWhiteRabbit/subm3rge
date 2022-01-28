@@ -1,6 +1,6 @@
 # subm3rge
 
-<b>Usage: ./ssubm3rge.sh</b>
+<b>Usage: ./subm3rge.sh</b>
 
 <h3>subm3rge v.1.0</h3>
 <img src="https://github.com/n3onhacks/subm3rge/blob/main/subm3rge.jpg" alt="subm3rge">
