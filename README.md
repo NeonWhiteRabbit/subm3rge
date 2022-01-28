@@ -18,9 +18,9 @@ subm3rge - merge all file contents that share a folder into a single file. Great
 ./subm3rge.sh<p>
 Notes: 
 
-*When typing in file location, leave '/' off the back of the last folder: <br>
+*When typing in file location, leave '/' off the back of the last folder: <p><p>
 <b>CORRECT</b>: /opt/speedracer/subtxt <br>
-<b>INCORRECT</b>: /opt/speedracer/subtxt <br>
+<b>INCORRECT</b>: /opt/speedracer/subtxt/ <br>
 <br>
 *Do not put '.' as folder location or subm3rge won't work.<p>
 
