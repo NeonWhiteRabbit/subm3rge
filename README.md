@@ -3,7 +3,7 @@
 <b>Usage: ./subm3rge.sh</b>
 
 <h3>subm3rge v.1.0</h3>
-<img src="https://github.com/n3onhacks/subm3rge/blob/main/subm3rge.jpg" alt="subm3rge">
+<img src="https://github.com/n3onhacks/subm3rge/blob/main/subm3rge_logo.jpg" alt="subm3rge">
 
 **!FOLLOW INSTALLATION INSTRUCTIONS BELOW!**<p>
 subm3rge - merge all file contents from files that share a folder into a single file. Great use cases with Speed Racer and httpDOUCHE. Written by n3on (<a href="https://www.twitter.com/@n3onhacks">@n3onhacks</a>).
