@@ -51,7 +51,7 @@ echo "......********************************************************************
 echo ".******* Welcome to subm3rge. Merge all File contents together from a specific Folder. *******."
 echo ".****** When typing in Folder location, leave off the last '/' at end of Folder name. ********."
 echo "......***********************************************************************************......"
-echo "......********************** DO NOT TYPE in '.' for folder location! ********************......"
+echo "......**********************       LETS SUBM3RGE THESE FILES         ********************......"
 echo "......***********************************************************************************......"
 echo ""
 echo "Folder location: (ex: /opt/speedracer/subtxt ) "
