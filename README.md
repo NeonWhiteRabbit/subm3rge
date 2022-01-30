@@ -22,7 +22,6 @@ Notes:
 <b>CORRECT</b>: /opt/speedracer/subtxt <br>
 <b>INCORRECT</b>: /opt/speedracer/subtxt/ <br>
 <br>
-*Do not put '.' as folder location or subm3rge won't work.<p>
 
  <h1>Installation Instructions</h1>
 >>git clone https://github.com/n3onhacks/subm3rge.git<br>
