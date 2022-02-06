@@ -26,7 +26,7 @@ Notes:
  <h1>Installation Instructions</h1>
 >>git clone https://github.com/n3onhacks/subm3rge.git<br>
 >>chmod 777 -R subm3rge<br>
->>cd subm3rger<br>
+>>cd subm3rge<br>
 >>./subm3rge.sh<br>
 
 <h1>Version Control</h1>
